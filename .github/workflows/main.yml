@@ -5,6 +5,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: my-step
-        run: echo "welcome to Hello World to people!"
+        run: echo "welcome to Hello World to lovre jjjjj people!"
 
         
