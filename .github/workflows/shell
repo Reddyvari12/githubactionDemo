@@ -1,4 +1,4 @@
-name: Bash Scripts
+name: Bash Scriptss
 on:
   workflow_dispatch:
 
